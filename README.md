@@ -1,1 +1,1 @@
-Hi! I'm Debjit, a MERN Stack Developer. This is a clone of popular project management application Trello (Listing Tasks). I have created it with React in frontend, Node and Express for backend and MongoDB for storing data. For authentication Firebase is used.
+Hi! I'm Kushal R, a Java Full  Stack Developer. This is a clone of popular project management application Trello (Listing Tasks). I have created it with React in frontend, Node and Express for backend and MongoDB for storing data. For authentication Firebase is used.
